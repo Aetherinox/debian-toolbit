@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Aetherinox/debian-toolbit/main/docs/images/banner.jpg" width="860"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Aetherinox/debian-toolkit/main/docs/images/banner.jpg" width="860"></p>
 <h1 align="center"><b>Debian Toolkit</b></h1>
 
 <div align="center">
@@ -29,10 +29,10 @@ Utilize `git clone` or `wget` to fetch whichever scripts you need to use on your
 ## Git Clone
 
 ```shell
-git clone https://raw.githubusercontent.com/Aetherinox/debian-toolbit/main/htpasswd.sh
+git clone https://raw.githubusercontent.com/Aetherinox/debian-toolkit/main/htpasswd.sh
 ```
 
 ## Wget
 ```shell
-wget -q https://raw.githubusercontent.com/Aetherinox/debian-toolbit/main/htpasswd.sh
+wget -q https://raw.githubusercontent.com/Aetherinox/debian-toolkit/main/htpasswd.sh
 ```
