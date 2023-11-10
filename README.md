@@ -36,3 +36,10 @@ git clone https://github.com/Aetherinox/debian-toolkit.git
 ```shell
 wget -q https://raw.githubusercontent.com/Aetherinox/debian-toolkit/main/htpasswd.sh
 ```
+
+<br />
+
+Once you have the script you want to utilize, set it to be executable
+```shell
+sudo chmod +x scriptname.sh
+```
