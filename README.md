@@ -29,7 +29,7 @@ Utilize `git clone` or `wget` to fetch whichever scripts you need to use on your
 ## Git Clone
 
 ```shell
-git clone https://raw.githubusercontent.com/Aetherinox/debian-toolkit/main/htpasswd.sh
+git clone https://github.com/Aetherinox/debian-toolkit.git
 ```
 
 ## Wget
