@@ -18,7 +18,7 @@ fi
 app_title="htpasswd"
 app_author="Aetherinox"
 app_ver=("1" "0" "0" "0")
-app_repo="debian-toolbox"
+app_repo="debian-toolkit"
 app_repo_branch="main"
 app_repo_url="https://github.com/${app_author}/${app_repo}"
 app_mnfst="https://raw.githubusercontent.com/${app_author}/${app_repo}/${app_repo_branch}/manifest.json"
